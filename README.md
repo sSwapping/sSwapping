@@ -11,8 +11,6 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://pbs.twimg.com/profile_images/925887679916539904/c73KOe6p_400x400.jpg"  />
-
 ###
 
 <div align="left">
@@ -41,7 +39,4 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/SimpSwapping/SimpSwapping/output/snake.svg" alt="Snake animation" />
-
 ###
